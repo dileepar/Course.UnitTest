@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\User\.nuget\packages\nsubstitute\5.1.0\lib\net6.0\NSubstitute.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\User\AppData\Local\JetBrains\Rider2024.1\resharper-host\temp\Rider\vAny\CoverageData\_Course.UnitTesting.922392048\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3ea0acbb_002D3f63_002D4f2a_002Da8ec_002De33976ac7a1f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestAdd" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3C45A7DC-7BB3-4F11-9203-3C85271F867F::net8.0::CalculatorLibrary.Tests.Unit.CalculatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6819C9EB-14A5-4CC3-94B5-BF150FD286C2::net8.0::Techniques.Tests.Unit.CalculatorTests.Add_ShouldAddTwoNumbers_WhenTwoNumbersAreInteger&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6819C9EB-14A5-4CC3-94B5-BF150FD286C2::net8.0::Techniques.Tests.Unit.CalculatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6819C9EB-14A5-4CC3-94B5-BF150FD286C2::net8.0::Techniques.Tests.Unit.ValueSamplesTests.FullName_ShouldBeNickChapsas_WhenValueSamplesIsCreated&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6819C9EB-14A5-4CC3-94B5-BF150FD286C2::net8.0::Techniques.Tests.Unit.ValueSamplesTests.Age_ShouldBe21_WhenValueSamplesIsCreated&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6819C9EB-14A5-4CC3-94B5-BF150FD286C2::net8.0::Techniques.Tests.Unit.ValueSamplesTests.AppUser_ShouldBeNickChapsas_WhenValueSamplesIsCreated&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6819C9EB-14A5-4CC3-94B5-BF150FD286C2::net8.0::Techniques.Tests.Unit.ValueSamplesTests.Should_UserInUsers_WhenValueSamplesIsCreated&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6819C9EB-14A5-4CC3-94B5-BF150FD286C2::net8.0::Techniques.Tests.Unit.ValueSamplesTests.TestInternalmember&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3FBF276F-BE7F-4865-BF2B-6A1D263DE412::net8.0::UnderstandingDependencies.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldReturnEmptyList_WhenNoUsers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3FBF276F-BE7F-4865-BF2B-6A1D263DE412::net8.0::UnderstandingDependencies.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldReturnUsers_WhenUsersExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::AAA6ACC2-941C-40FE-9445-8A89BD3BB464::net8.0::Users.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldReturnEmptyList_WhenNoUsers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::AAA6ACC2-941C-40FE-9445-8A89BD3BB464::net8.0::Users.Api.Tests.Unit.UserServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
